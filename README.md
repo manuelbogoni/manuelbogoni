@@ -1,5 +1,5 @@
-👋 Hi, I’m @manuelbogoni.
-🌊 Water resources engineer, PhD in Hydrodynamics.
+👋 Hi everyone, I’m @manuelbogoni.  
+🌊 Water resources engineer, PhD in Hydrodynamics.  
 🌱 Enthralled by rivers, streams, rainfall, coding, and numbers.
 
 <!---
